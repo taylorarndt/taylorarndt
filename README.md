@@ -1,6 +1,6 @@
 # Hey, I am Taylor.
 
-COO at [Techopolis](https://github.com/techopolis-group). Developer. Accessibility specialist. Based in Texas.
+COO at [Techopolis](https://github.com/techopolis-group). Developer. Based in Texas.
 
 I build things with AI. Not wrappers around APIs. Not prompt templates. Actual agent teams -- groups of specialized AI agents that review each other's work and enforce real standards. The kind of tooling I wish existed when I started.
 
@@ -16,7 +16,7 @@ I am blind. I use VoiceOver and AI tools every single day. That is not a limitat
 
 **Accessibility tooling.** This is the thread that runs through everything. If your AI tool writes a button without a label, it is broken. I build the tools that fix that.
 
-**3D printing.** I design and print things using Blender scripted entirely through Python. No GUI. Just code, a printer, and whatever I can imagine.
+**3D printing.** I design and print things. Just code, a printer, and whatever I can imagine.
 
 ## Projects
 
@@ -36,7 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/taylorarndt/swift-agent-team/main/i
 
 ## What I Use
 
-Claude Code, VS Code, GitHub Copilot, Xcode, VoiceOver, Blender (headless via Python and MCP). Swift, Python, TypeScript.
+Claude Code, VS Code, GitHub Copilot, Xcode, VoiceOver. Swift, Python, TypeScript.
 
 ## Where to Find Me
 
