@@ -16,6 +16,8 @@ I am blind. I use VoiceOver and AI tools every single day. That is not a limitat
 
 **Accessibility tooling.** This is the thread that runs through everything. If your AI tool writes a button without a label, it is broken. I build the tools that fix that.
 
+**3D printing.** I design and print things using Blender scripted entirely through Python. No GUI. Just code, a printer, and whatever I can imagine.
+
 ## Projects
 
 [**A11y Agent Team**](https://github.com/taylorarndt/a11y-agent-team) -- 19 accessibility agents for Claude Code, GitHub Copilot, and Claude Desktop. WCAG 2.2 AA enforcement so AI stops generating inaccessible code.
