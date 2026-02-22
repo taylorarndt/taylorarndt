@@ -36,7 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/taylorarndt/swift-agent-team/main/i
 
 ## What I Use
 
-Claude Code, VS Code, GitHub Copilot, Xcode, VoiceOver, Blender (headless via Python). Swift, Python, TypeScript.
+Claude Code, VS Code, GitHub Copilot, Xcode, VoiceOver, Blender (headless via Python and MCP). Swift, Python, TypeScript.
 
 ## Where to Find Me
 
